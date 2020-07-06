@@ -2,17 +2,17 @@ package entity
 
 type UserReadHistory struct {
 	/**
-	用户id
+	userId
 	*/
-	Id int `json:"id,omitempty"`
+	Id int64 `json:"id,omitempty"`
 
 	/**
-	新闻id
+	newsId
 	*/
 	LinkId int `json:"linkId,omitempty"`
 }
 
-func (this *UserReadHistory) GetId() int {
+func (this *UserReadHistory) GetId() int64 {
 	return this.Id
 }
 

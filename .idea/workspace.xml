@@ -15,10 +15,16 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1e7chCbNObRtcwz27wiUi5104j2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -44,7 +51,7 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="link-recommend" />
+      <module name="news-recommend" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
@@ -54,7 +61,7 @@
       <method v="2" />
     </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="link-recommend" />
+      <module name="news-recommend" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/main.go" />
@@ -63,7 +70,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="link-recommend" />
+      <module name="news-recommend" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <framework value="gotest" />
@@ -99,38 +106,38 @@
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state x="669" y="149" key="#go_build_main.go/0.23.1920.967@0.23.1920.967" timestamp="1593676733834" />
-    <state width="1878" height="310" key="GridCell.Tab.0.bottom" timestamp="1593762650717">
+    <state width="1878" height="310" key="GridCell.Tab.0.bottom" timestamp="1594025089153">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
-    <state width="1878" height="310" key="GridCell.Tab.0.bottom/0.23.1920.967@0.23.1920.967" timestamp="1593762650717" />
-    <state width="1878" height="310" key="GridCell.Tab.0.center" timestamp="1593762650716">
+    <state width="1878" height="310" key="GridCell.Tab.0.bottom/0.23.1920.967@0.23.1920.967" timestamp="1594025089153" />
+    <state width="1878" height="310" key="GridCell.Tab.0.center" timestamp="1594025089153">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
-    <state width="1878" height="310" key="GridCell.Tab.0.center/0.23.1920.967@0.23.1920.967" timestamp="1593762650716" />
-    <state width="1878" height="310" key="GridCell.Tab.0.left" timestamp="1593762650716">
+    <state width="1878" height="310" key="GridCell.Tab.0.center/0.23.1920.967@0.23.1920.967" timestamp="1594025089153" />
+    <state width="1878" height="310" key="GridCell.Tab.0.left" timestamp="1594025089152">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
-    <state width="1878" height="310" key="GridCell.Tab.0.left/0.23.1920.967@0.23.1920.967" timestamp="1593762650716" />
-    <state width="1878" height="310" key="GridCell.Tab.0.right" timestamp="1593762650717">
+    <state width="1878" height="310" key="GridCell.Tab.0.left/0.23.1920.967@0.23.1920.967" timestamp="1594025089152" />
+    <state width="1878" height="310" key="GridCell.Tab.0.right" timestamp="1594025089153">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
-    <state width="1878" height="310" key="GridCell.Tab.0.right/0.23.1920.967@0.23.1920.967" timestamp="1593762650717" />
-    <state width="1878" height="310" key="GridCell.Tab.1.bottom" timestamp="1593762650718">
+    <state width="1878" height="310" key="GridCell.Tab.0.right/0.23.1920.967@0.23.1920.967" timestamp="1594025089153" />
+    <state width="1878" height="310" key="GridCell.Tab.1.bottom" timestamp="1594025089154">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
-    <state width="1878" height="310" key="GridCell.Tab.1.bottom/0.23.1920.967@0.23.1920.967" timestamp="1593762650718" />
-    <state width="1878" height="310" key="GridCell.Tab.1.center" timestamp="1593762650717">
+    <state width="1878" height="310" key="GridCell.Tab.1.bottom/0.23.1920.967@0.23.1920.967" timestamp="1594025089154" />
+    <state width="1878" height="310" key="GridCell.Tab.1.center" timestamp="1594025089154">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
-    <state width="1878" height="310" key="GridCell.Tab.1.center/0.23.1920.967@0.23.1920.967" timestamp="1593762650717" />
-    <state width="1878" height="310" key="GridCell.Tab.1.left" timestamp="1593762650717">
+    <state width="1878" height="310" key="GridCell.Tab.1.center/0.23.1920.967@0.23.1920.967" timestamp="1594025089154" />
+    <state width="1878" height="310" key="GridCell.Tab.1.left" timestamp="1594025089153">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
-    <state width="1878" height="310" key="GridCell.Tab.1.left/0.23.1920.967@0.23.1920.967" timestamp="1593762650717" />
-    <state width="1878" height="310" key="GridCell.Tab.1.right" timestamp="1593762650718">
+    <state width="1878" height="310" key="GridCell.Tab.1.left/0.23.1920.967@0.23.1920.967" timestamp="1594025089153" />
+    <state width="1878" height="310" key="GridCell.Tab.1.right" timestamp="1594025089154">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
-    <state width="1878" height="310" key="GridCell.Tab.1.right/0.23.1920.967@0.23.1920.967" timestamp="1593762650718" />
+    <state width="1878" height="310" key="GridCell.Tab.1.right/0.23.1920.967@0.23.1920.967" timestamp="1594025089154" />
     <state x="626" y="263" width="667" height="486" key="find.popup" timestamp="1593762643121">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
@@ -140,7 +147,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/entity/user_read_history.go</url>
+          <url>file://$PROJECT_DIR$/../news-recommend/entity/user_read_history.go</url>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
